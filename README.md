@@ -1,4 +1,6 @@
 # BAAd
 Basic Access Authentication bruteforcer
 
-This tool is for educational purposes only. I am not liable for any malicious activity performed with my software.
+*This is for educational purposes only.
+I am in NO WAY liable for any actions executed by means of the contents within this
+repository. PLEASE use responsibly.*
